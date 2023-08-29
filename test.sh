@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hi Team, Welcome to DevOps"
+echo "Hi Team, I am from shell script"
 
