@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print "Hi Team, I am triggered from jenkins job"
+print "This is for test the CI from python script"
