@@ -1,3 +1,5 @@
 FROM centos:7
 RUN  useradd ktbatch && \
-     yum install telnet -y
+     yum install telnet -y && \
+     echo "hello team" >/tmp/file.txt
+
