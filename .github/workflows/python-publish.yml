@@ -11,7 +11,7 @@ name: Run basic scripts
 on:
   push:
     branches:
-       - mian
+       - main
 
 permissions:
   contents: read
